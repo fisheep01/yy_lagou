@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "C:\\\\Users\\\\Administrator\\\\Desktop\\\\03-03-study-materials\\\\code\\\\3-3-4-1-nuxtjs综合案例\\\\realworld-nuxtjs\\\\pages\\\\layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "C:\\\\Users\\\\Administrator\\\\Desktop\\\\03-03-study-materials\\\\code\\\\3-3-4-1-nuxtjs综合案例\\\\realworld-nuxtjs\\\\pages\\\\home",
+        "_name": "_3de1934f"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "C:\\\\Users\\\\Administrator\\\\Desktop\\\\03-03-study-materials\\\\code\\\\3-3-4-1-nuxtjs综合案例\\\\realworld-nuxtjs\\\\pages\\\\login",
+        "_name": "_7e891ef9"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "C:\\\\Users\\\\Administrator\\\\Desktop\\\\03-03-study-materials\\\\code\\\\3-3-4-1-nuxtjs综合案例\\\\realworld-nuxtjs\\\\pages\\\\login",
+        "_name": "_7e891ef9"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "C:\\\\Users\\\\Administrator\\\\Desktop\\\\03-03-study-materials\\\\code\\\\3-3-4-1-nuxtjs综合案例\\\\realworld-nuxtjs\\\\pages\\\\profile",
+        "_name": "_4c37d58e"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "C:\\\\Users\\\\Administrator\\\\Desktop\\\\03-03-study-materials\\\\code\\\\3-3-4-1-nuxtjs综合案例\\\\realworld-nuxtjs\\\\pages\\\\settings",
+        "_name": "_1842bada"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "C:\\\\Users\\\\Administrator\\\\Desktop\\\\03-03-study-materials\\\\code\\\\3-3-4-1-nuxtjs综合案例\\\\realworld-nuxtjs\\\\pages\\\\editor",
+        "_name": "_460ee3dd"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "C:\\\\Users\\\\Administrator\\\\Desktop\\\\03-03-study-materials\\\\code\\\\3-3-4-1-nuxtjs综合案例\\\\realworld-nuxtjs\\\\pages\\\\article",
+        "_name": "_7ea34ef4"
+      }
+    ],
+    "_name": "_51ddbd9a"
+  }
+]
